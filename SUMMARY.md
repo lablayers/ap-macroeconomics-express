@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Unit 1 - Basic Economic Concepts
-   * [1.1 Introduction.md](Unit 1 - Basic Economic Concepts/1.1 Introduction to Economics.md)
+   * [1.1 Introduction to Economics](Unit 1 - Basic Economic Concepts/1.1 Introduction to Economics.md)
 
