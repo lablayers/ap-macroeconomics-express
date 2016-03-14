@@ -6,7 +6,7 @@
    * [1.2 Economic Systems](Unit 1 - Basic Economic Concepts/1.2 Economic Systems.md)
    * [1.3 Production Possibilities Curve](Unit 1 - Basic Economic Concepts/1.3 Production Possibilities Curve.md)
    * [1.4 Trade and Comparative Advantage](Unit 1 - Basic Economic Concepts/Trade and Comparative Advantage.md)
-   * 1.5 The Circular Flow Model
+   * [1.5 The Circular Flow Model](Unit 1 - Basic Economic Concepts/The Circular Flow Model.md)
    * 1.6 Demand
    * 1.7 Supply and Equilibrium
    * 1.8 Shifting Demand and Supply
