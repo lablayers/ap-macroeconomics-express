@@ -9,7 +9,7 @@
    * [1.5 The Circular Flow Model](Unit 1 - Basic Economic Concepts/The Circular Flow Model.md)
    * [1.6 Demand](Unit 1 - Basic Economic Concepts/Demand.md)
    * [1.7 Supply and Equilibrium](Unit 1 - Basic Economic Concepts/Supply and Equilibrium.md)
-   * 1.8 Shifting Demand and Supply
+   * [1.8 Shifting Demand and Supply](Unit 1 - Basic Economic Concepts/Shifting Demand and Supply.md)
    * 1.9 Price Controls and Elasticity
 * [Unit 2 - Macro Measures](Unit 2 - Macro Measures/README.md)
    * [2.1 Gross Domestic Product (GDP)](Unit 2 - Macro Measures/2.1 Intro to Macro and GDP.md)
