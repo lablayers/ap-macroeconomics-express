@@ -8,7 +8,7 @@
    * [1.4 Trade and Comparative Advantage](Unit 1 - Basic Economic Concepts/Trade and Comparative Advantage.md)
    * [1.5 The Circular Flow Model](Unit 1 - Basic Economic Concepts/The Circular Flow Model.md)
    * [1.6 Demand](Unit 1 - Basic Economic Concepts/Demand.md)
-   * 1.7 Supply and Equilibrium
+   * [1.7 Supply and Equilibrium](Unit 1 - Basic Economic Concepts/Supply and Equilibrium.md)
    * 1.8 Shifting Demand and Supply
    * 1.9 Price Controls and Elasticity
 * [Unit 2 - Macro Measures](Unit 2 - Macro Measures/README.md)
