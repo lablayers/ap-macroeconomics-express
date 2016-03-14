@@ -14,7 +14,7 @@
 * [Unit 2 - Macro Measures](Unit 2 - Macro Measures/README.md)
    * 2.1 Gross Domestic Product (GDP)
    * 2.2 Unemployment
-   * 2.3 Inflation
+   * [2.3 Inflation](Unit 2 - Macro Measures/2.3 Inflation.md)
 * [Unit 3 - AD, AS, Fiscal Policy, and Growth](Unit 3 - AD, AS, Fiscal Policy, and Growth/README.md)
    * 3.1 Aggregate Demand
    * 3.2 Aggregate Supply
