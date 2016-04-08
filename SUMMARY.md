@@ -22,7 +22,7 @@
    * 3.4 Classical vs. Keynesian
    * [3.5 The Phillips Curve](Unit 3 - AD, AS, Fiscal Policy, and Growth/3.5 The Phillips Curve.md)
    * [3.6 Fiscal Policy and the Multiplier](Unit 3 - AD, AS, Fiscal Policy, and Growth/3.6 Fiscal Policy and the Multiplier.md)
-   * 3.7 Problems with Fiscal Policy
+   * [3.7 Problems with Fiscal Policy](Unit 3 - AD, AS, Fiscal Policy, and Growth/3.7 Problems with Fiscal Policy.md)
 * [Unit 4 - Money, Banking, and Monetary Policy](Unit 4 - Money, Banking, and Monetary Policy/README.md)
    * 4.1 Intro to Money
    * 4.2 Money Market and Monetary Policy
