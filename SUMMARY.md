@@ -21,7 +21,7 @@
    * 3.3 Aggregate Supply & Demand Over Time
    * 3.4 Classical vs. Keynesian
    * 3.5 The Phillips Curve
-   * 3.6 Fiscal Policy and the Multiplier
+   * [3.6 Fiscal Policy and the Multiplier](Unit 3 - AD, AS, Fiscal Policy, and Growth/3.6 Fiscal Policy and the Multiplier.md)
    * 3.7 Problems with Fiscal Policy
 * [Unit 4 - Money, Banking, and Monetary Policy](Unit 4 - Money, Banking, and Monetary Policy/README.md)
    * 4.1 Intro to Money
