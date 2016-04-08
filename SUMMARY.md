@@ -16,7 +16,7 @@
    * [2.2 Unemployment](Unit 2 - Macro Measures/2.2 Unemployment.md)
    * [2.3 Inflation](Unit 2 - Macro Measures/2.3 Inflation.md)
 * [Unit 3 - AD, AS, Fiscal Policy, and Growth](Unit 3 - AD, AS, Fiscal Policy, and Growth/README.md)
-   * 3.1 Aggregate Demand
+   * [3.1 Aggregate Demand](Unit 3 - AD, AS, Fiscal Policy, and Growth/3.1 Aggregate Demand.md)
    * 3.2 Aggregate Supply
    * 3.3 Aggregate Supply & Demand Over Time
    * 3.4 Classical vs. Keynesian
